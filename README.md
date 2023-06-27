@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 ![ckswns879's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckswns879&show_icons=true&theme=vue)
 
 
-### Languages
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+### Skill
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-40AEF0.svg?&style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-0B2C4A.svg?&style=for-the-badge&logo=React&logoColor=white">
 
 ### Learned at least once
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-0B2C4A.svg?&style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
